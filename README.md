@@ -20,8 +20,6 @@ I'm Shrijan Lakhey, a Computer Science student at Kathford International College
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <br>MySQL
       </td>
-  </tr>
-  <tr>
       <td align="center"  width="96" height="40">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       <br>Git
@@ -34,6 +32,10 @@ I'm Shrijan Lakhey, a Computer Science student at Kathford International College
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
       <br>Figma
       </td>
+      <td align="center" width="96" height="40">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <br>VsCode
+    </td>
   </tr>
 </table>
 <p align="center"> 
