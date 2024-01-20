@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shrijan Lakhey, a Computer Science student at Kathford International College of Engineering and Management. I really enjoy debugging codes that give me hours or days of headaches. I'm currently learing Python, and trying to continue my journey in Django. I'd like to learn REACT in the future and dive into other possible paths that can be taken using Python.
+I'm Shrijan Lakhey, Bachelor of Computer Application student at Kathford International College of Engineering and Management. I really enjoy debugging codes that give me hours or days of headaches. I'm currently learing Python, and trying to continue my journey in Django. I'd like to learn REACT in the future and dive into other possible paths that can be taken using Python.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrijanlakhey)](https://github.com/anuraghazra/github-readme-stats)
 
