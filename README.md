@@ -12,10 +12,24 @@ I'm Shrijan Lakhey, Bachelor of Computer Application student at Kathford Interna
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <br>Python
       </td>
+       <td align="center"  width="96"height="40" >
+              <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+      <br>Django
+      </td>
+      <td align="center"  width="96"height="40" >
+              <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" />
+      <br>Django REST Framework
+      </td>
+      <td align="center"  width="96"height="40" >
+              <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+      <br>Flask
+      </td>
       <td align="center"  width="96" height="40">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       <br>C
       </td>
+  </tr>
+  <tr>
       <td align="center" width="96" height="40">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
       <br>MySQL
