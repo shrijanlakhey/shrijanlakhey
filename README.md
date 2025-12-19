@@ -1,10 +1,6 @@
 # Hi there, I'm Shrijan Lakhey 👋 
 
-<p align="center">
-  <img src="https://github.com/shrijanlakhey/shrijanlakhey/blob/main/Hailuo_Video_Createagifofthecharacter_458326631439212553-ezgif.com-optimize.gif?raw=true" width="350" alt="Coding GIF" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -16,12 +12,16 @@
 
 ### 🚀 About Me
 
+<img src="https://github.com/shrijanlakhey/shrijanlakhey/blob/main/Hailuo_Video_Createagifofthecharacter_458326631439212553-ezgif.com-optimize.gif?raw=true" align="right" width="220" alt="Coding GIF" />
+
 I am a **Bachelor of Computer Application** student at Kathford International College. I’m a backend-heavy developer who actually enjoys the "headache" of debugging complex logic. 
 
 - 🐍 **Currently Focused On:** Deepening my expertise in **Django** and **Django REST Framework**.
 - ⚛️ **Frontend Journey:** Transitioning into Fullstack development by mastering **React**.
 - 🐧 **Environment:** Power user currently rocking **Fedora Linux** and crafting code in **Neovim**.
 - 🛠️ **Problem Solver:** I love the challenge of building scalable APIs and optimizing database queries.
+
+<br clear="right">
 
 ---
 
